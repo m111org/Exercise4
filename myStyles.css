@@ -1,0 +1,13 @@
+h1{
+    color:rgb(0, 47, 255);
+    font-size: 40px;
+}
+p{
+    color:rgb(113, 226, 43);
+}
+a{color: red;}
+footer{background-color: white;}
+.center {display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;}
