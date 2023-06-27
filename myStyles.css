@@ -1,10 +1,7 @@
-h1{
-    color:rgb(0, 47, 255);
-    font-size: 40px;
-}
 p{
     color:rgb(113, 226, 43);
 }
+article{color:red; font-style: italic;}
 a{color: red;}
 footer{background-color: white;}
 .center {display: block;
@@ -14,3 +11,5 @@ width: 50%;}
 img {
     border-radius: 50%;
     }
+h1 {text-align: center; }
+iframe {border-radius: 35%;}
